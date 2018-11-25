@@ -1,2 +1,7 @@
 .idea/
 *.iml
+charts/
+.dockerignore
+*.toml
+.draftignore
+Dockerfile
